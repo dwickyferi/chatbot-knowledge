@@ -1,5 +1,50 @@
 # Changelog
 
+## [1.2.0](https://github.com/dwickyferi/mindspark/compare/v1.1.0...v1.2.0) (2025-07-26)
+
+
+### Features
+
+* add md ([5683963](https://github.com/dwickyferi/mindspark/commit/56839637e532111f60801b7711e48fba4b2f9620))
+* adding feature add dataset ([8cfd2e0](https://github.com/dwickyferi/mindspark/commit/8cfd2e07c3b11262548166535daa0a8bc8e3175c))
+* adding feature generate prompt system instructions ([89c3c77](https://github.com/dwickyferi/mindspark/commit/89c3c7716e32641d37fc674ca8843155f484b275))
+* adding feature rag ([acf263b](https://github.com/dwickyferi/mindspark/commit/acf263b88f775d673f07e301547586e5f245127b))
+* adding feature rag for youtube ([66472fe](https://github.com/dwickyferi/mindspark/commit/66472fe09243191eece8a6ae2ba4b8f6b0195702))
+* adding feature save session ([c515b7b](https://github.com/dwickyferi/mindspark/commit/c515b7b1fd67e0c8de29ea898d081bec38a61cf5))
+* adding feature selection knowledge ([87519c7](https://github.com/dwickyferi/mindspark/commit/87519c775a043447190d1754cdeccb9fde9f4627))
+* adding feature table type in studio ([efd2fed](https://github.com/dwickyferi/mindspark/commit/efd2fed6baa6821d92c85c298f84f8abd980e3b7))
+* adding feature text-to-sql chat ([01eb656](https://github.com/dwickyferi/mindspark/commit/01eb6560513ebfb9a24e465f6f26c28a42339492))
+* adding type of rag doc ([9eec742](https://github.com/dwickyferi/mindspark/commit/9eec7420f91c612e0613607ecde16f9215904966))
+* adding ui knowledge ([8b6aa58](https://github.com/dwickyferi/mindspark/commit/8b6aa58860c1dc7f9a38a50f90ddf4c488dc09cb))
+* adding web rag ([3dbc1d6](https://github.com/dwickyferi/mindspark/commit/3dbc1d659e69c415fb0eebad2d068ea71cd126ad))
+* delete unused file ([96c9c33](https://github.com/dwickyferi/mindspark/commit/96c9c33ca62fc7676c2c88d50e686afd51629a05))
+* fix infinite loop ([fbabd5e](https://github.com/dwickyferi/mindspark/commit/fbabd5efeb522fab4f8cefb3985254b6eae186f4))
+* fix issue lint ([e7e9d7b](https://github.com/dwickyferi/mindspark/commit/e7e9d7baff9d39ec064974ee783f26bfeafec8d1))
+* fix issue studio bug ([699a0cc](https://github.com/dwickyferi/mindspark/commit/699a0cc4bba312553922a33d43e0f44ac839c2a9))
+* improve ux studio ([43c1c69](https://github.com/dwickyferi/mindspark/commit/43c1c695285bd721fa27ff4adb0d806e5cd30c55))
+* issue delay clear rerender ([346ecdb](https://github.com/dwickyferi/mindspark/commit/346ecdbfd7691590125960a679f5837a45078333))
+* limit conversations list history chat into 5 ([e0b4d13](https://github.com/dwickyferi/mindspark/commit/e0b4d13e730659a91fdd9c379e92d9ad0036642c))
+* prompt metada enrichment rag optimize ([f8aa112](https://github.com/dwickyferi/mindspark/commit/f8aa112be4f81bb2c3ba2c9c41ff4d25bbd96564))
+* update container yml ([88504fd](https://github.com/dwickyferi/mindspark/commit/88504fd5f1b20452a0206315612461d61b4116d6))
+* update issue ([a7cf977](https://github.com/dwickyferi/mindspark/commit/a7cf9779f0b08566e158c4de85d17cde0888f882))
+* update issue text area studio not clear ([c5f55b1](https://github.com/dwickyferi/mindspark/commit/c5f55b1734612244818cac293ef740a3e99d6092))
+* update layout knowledge ([24c1217](https://github.com/dwickyferi/mindspark/commit/24c12171d69d82c03684ff51e3bc18e522eddeea))
+* update modal delete dataset ([45a7c91](https://github.com/dwickyferi/mindspark/commit/45a7c91d56bc2fa626a38a1ce4ae5a8de1fd5ed9))
+* update model ([c9edd4f](https://github.com/dwickyferi/mindspark/commit/c9edd4f21a693341d5eb8e4bfd280a20b6524b8e))
+* update remove button knowledge ([7ac1888](https://github.com/dwickyferi/mindspark/commit/7ac1888388cc98cf706a21eb3a21e839bf22ba40))
+* update sidebar item ([dcb8a70](https://github.com/dwickyferi/mindspark/commit/dcb8a706bf71fa7897c7027e800e9b9964943a6b))
+* update ui sheet knowledge page ([1d7680c](https://github.com/dwickyferi/mindspark/commit/1d7680c5297b004b7412c685b56df4ec9d7480ec))
+* update ui, youtube rag type ([c606159](https://github.com/dwickyferi/mindspark/commit/c606159b0fa94c97b93f4a8b891c46c287123b68))
+
+
+### Bug Fixes
+
+* fix issue retrieval embedding rag knowledge ([4b286a3](https://github.com/dwickyferi/mindspark/commit/4b286a3f6265fa484cbede5d661e9936002ab354))
+* issue chart studio ([4fbd051](https://github.com/dwickyferi/mindspark/commit/4fbd051b81fab1faafdd8eaff3cd1fc13b076ae3))
+* issue state generate chart ([7ef893e](https://github.com/dwickyferi/mindspark/commit/7ef893ed015c8e6bac12055f0c168b478e61cc20))
+* issue type ([65f382e](https://github.com/dwickyferi/mindspark/commit/65f382e321fb4c944e56bddb27f0886824f9c9f0))
+* page studio issue ([607639e](https://github.com/dwickyferi/mindspark/commit/607639e64225206b0d1c818dc0ed08a998847501))
+
 ## [1.1.0](https://github.com/dwickyferi/mindspark/compare/v1.0.0...v1.1.0) (2025-07-23)
 
 
